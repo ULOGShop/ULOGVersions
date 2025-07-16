@@ -1,0 +1,14 @@
+{
+    "ulog_commons": {
+        "version": "1.0.0",
+        "notes": "None"
+    },
+    "ulog_ipls": {
+        "version": "1.0.0",
+        "notes": "None"
+    },
+    "ulog_map_template": {
+        "version": "1.0.0",
+        "notes": "None"
+    }
+}
