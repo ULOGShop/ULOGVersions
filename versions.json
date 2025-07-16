@@ -1,18 +1,14 @@
 {
     "ulog_commons": {
-        "version": "2.0.0",
+        "version": "1.0.0",
         "notes": "Initial release with basic functionality."
     },
     "ulog_ipls": {
-        "version": "2.0.0",
+        "version": "1.0.0",
         "notes": "Initial release with basic functionality."
     },
     "ulog_map_template": {
-        "version": "2.0.0",
-        "notes": [
-      "Complete overhaul of the system.",
-      "Optimized loading times.",
-      "Fixed minor issues."
-    ]
+        "version": "1.0.0",
+        "notes": "Initial release with basic functionality."
     }
 }
