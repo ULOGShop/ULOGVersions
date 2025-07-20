@@ -1,4 +1,8 @@
 {
+    "ulog_audios": {
+        "version": "1.0.0",
+        "notes": "Initial release with basic functionality."
+    },
     "ulog_commons": {
         "version": "1.0.0",
         "notes": "Initial release with basic functionality."
@@ -7,12 +11,16 @@
         "version": "1.0.0",
         "notes": "Initial release with basic functionality."
     },
+    "ulog_scenarios": {
+        "version": "1.0.0",
+        "notes": "Initial release with basic functionality."
+    },
     "ulog_apartments": {
         "version": "1.0.0",
         "notes": "Initial release with basic functionality."
     },
-    "ulog_scenarios": {
+    "ulog_mrpd": {
         "version": "1.0.0",
         "notes": "Initial release with basic functionality."
-    }
+    },
 }
